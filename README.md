@@ -1,13 +1,15 @@
 ## 功能介绍 
 
- 疫情防控报备小程序，适合广大企事业单位，学校幼儿园，社区村委等更好的统计所辖人员的疫情数据，主要功能包括健康监测、行程跟踪、核酸报名、隔离统计、健康打卡（每天）等，后台可以发布各种通知消息，查看填报数据，对用户进行审核准入，并可以把每天的填报数据导出为Excel表格。本方案前后端完整代码，采用腾讯提供的小程序云开发解决方案，无须服务器和域名。
+ 疫情上报小程序，自从新冠肺炎疫情防控阻击战打响以来，很多学校、企事业单位等组织都用上了微信小程序来上报人员疫情等数据，本小程序供各单位疫情防控人员使用，用于各个场景的布控检查，包括出入检查登记，企业疫情防控，出租屋疫情防控和其他防控检查四个部分。本方案前后端完整代码，采用腾讯提供的小程序云开发解决方案，无须服务器和域名。
 
-![输入图片说明](demo/qr.png)
+ ![image](https://user-images.githubusercontent.com/113775523/190858485-393ff908-c6e1-477a-836d-4793f4047732.png)
+
 
 
 ## 功能说明
 
-![输入图片说明](demo/%E7%96%AB%E6%83%85%E9%98%B2%E6%8E%A7%E6%8A%A5%E5%A4%87%E5%B0%8F%E7%A8%8B%E5%BA%8F%20(2).gif)
+ ![image](https://user-images.githubusercontent.com/113775523/190858487-176561b0-f54b-49cf-98aa-ea805ced8674.png)
+
 
 
 ## 技术运用
@@ -18,17 +20,12 @@
 - 资源承载力可根据业务发展需要随时弹性扩展。  
 
 
-
-## 作者
-- 如有疑问，欢迎骚扰联系我：开发交流，技术分享，问题答疑，功能建议收集，版本更新通知，安装部署协助，小程序开发定制等。
-- 俺的微信: 
  
-![输入图片说明](demo/author-base.png)
-
 
 ## 演示 
+![image](https://user-images.githubusercontent.com/113775523/190858484-98a836d6-4fd7-4956-b6e8-84d488b3b81f.png)
 
- ![输入图片说明](demo/qr.png)
+ 
 
 ## 安装
 
@@ -38,29 +35,27 @@
 
 
 ## 截图
-![输入图片说明](demo/1%E9%A6%96%E9%A1%B5.png)
+ ![image](https://user-images.githubusercontent.com/113775523/190858493-1c4711d7-bdb5-4e2c-bd4c-4897bbae43b2.png)
+![image](https://user-images.githubusercontent.com/113775523/190858495-186b0e64-61fe-47da-b297-39d542b6844b.png)
+![image](https://user-images.githubusercontent.com/113775523/190858497-3eb87947-20b6-481c-b4e8-28bfaf5d7ac6.png)
+![image](https://user-images.githubusercontent.com/113775523/190858498-da6f1ac6-7d35-4cd8-a3da-248c21541552.png)
+![image](https://user-images.githubusercontent.com/113775523/190858499-e4b715c3-47b9-494f-ac8c-7d5f7ede9d2e.png)
 
-![输入图片说明](demo/2%E5%85%AC%E5%91%8A.png)
-![输入图片说明](demo/3%E5%81%A5%E5%BA%B7%E6%89%93%E5%8D%A1.png)
+![image](https://user-images.githubusercontent.com/113775523/190858501-8995bbe9-3ab2-44d7-9cc6-5d45fd6381cd.png)
+![image](https://user-images.githubusercontent.com/113775523/190858506-983082e3-a9cb-4176-a6b8-8637541c6a24.png)
+![image](https://user-images.githubusercontent.com/113775523/190858514-1ad99994-f8fc-4b0d-ad46-0a420f5ed84e.png)
+![image](https://user-images.githubusercontent.com/113775523/190858516-e4bea829-a008-4539-95aa-d2b75b922cc4.png)
+![image](https://user-images.githubusercontent.com/113775523/190858520-0d159c7c-95e5-424b-8318-0e5c6793fcca.png)
+![image](https://user-images.githubusercontent.com/113775523/190858523-9bc43b23-debb-41e3-8981-7da0ac2a440e.png)
 
-![输入图片说明](demo/4%20%E7%96%AB%E6%83%85%E6%8E%92%E6%9F%A5.png)
- ![输入图片说明](demo/5%E5%87%BA%E8%A1%8C%E6%8A%A5%E5%A4%87.png)
-![输入图片说明](demo/6%E5%87%BA%E8%A1%8C%E6%8A%A5%E5%A4%872.png)
-![输入图片说明](demo/7%E5%87%BA%E8%A1%8C%E6%8A%A5%E5%A4%873.png)
-![输入图片说明](demo/8%E6%A0%B8%E9%85%B8%E6%8A%A5%E5%90%8D.png)
-![输入图片说明](demo/9%E9%9A%94%E7%A6%BB%E7%BB%9F%E8%AE%A1.png)
-![输入图片说明](demo/10%E9%9A%94%E7%A6%BB%E7%BB%9F%E8%AE%A12.png)
-![输入图片说明](demo/11%E6%88%91%E7%9A%84.png)
 
 ## 后台管理系统截图 
 - 后台超级管理员默认账号:admin，密码123456，请登录后台后及时修改密码和创建普通管理员。
+![image](https://user-images.githubusercontent.com/113775523/190858527-dc513206-e8ce-413e-a16c-b2e9ff400977.png)
+![image](https://user-images.githubusercontent.com/113775523/190858528-172c762d-4ec9-4ef7-94e8-e971fe847c0e.png)
+![image](https://user-images.githubusercontent.com/113775523/190858531-fb79ed1f-e721-48a9-b34b-f01bfcc9e0cb.png)
+![image](https://user-images.githubusercontent.com/113775523/190858535-8ef1ee2a-178d-409d-bf0c-f3251c093c07.png)
+![image](https://user-images.githubusercontent.com/113775523/190858537-1fa9caa7-6c43-4abb-9807-7b63ade18e2e.png)
 
-![输入图片说明](demo/12%E7%AE%A1%E7%90%86%E9%A6%96%E9%A1%B5.png)
-![输入图片说明](demo/13%E5%A1%AB%E6%8A%A5%E7%AE%A1%E7%90%86.png)
-
-![输入图片说明](demo/14%E6%95%B0%E6%8D%AE%E5%AF%BC%E5%87%BA.png)
-![输入图片说明](demo/15%E5%AF%BC%E5%87%BA%E6%95%B0%E6%8D%AE.jpg)
-![输入图片说明](demo/16%E5%87%BA%E8%A1%8C%E6%8A%A5%E5%A4%87.png)
-![输入图片说明](demo/18%E6%8A%A5%E5%A4%87%E8%AF%A6%E6%83%85.png)
-![输入图片说明](demo/20%E6%8A%A5%E5%A4%87%E5%AF%BC%E5%87%BA.jpg)
-![输入图片说明](demo/21%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86.png)
+ ![image](https://user-images.githubusercontent.com/113775523/190858538-d8b3e97a-a0e2-438f-9b2b-bc896e99b84e.png)
+![image](https://user-images.githubusercontent.com/113775523/190858542-133c8df2-f55c-4121-9900-83654b568474.png)
